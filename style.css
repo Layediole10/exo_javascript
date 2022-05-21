@@ -1,0 +1,20 @@
+.inputtext{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 200px;
+    height: 100px;
+    
+}
+
+#table{
+
+    border-collapse: collapse;
+    margin-top: 10px;
+    
+}
+
+#table th, td{
+
+    padding: 10px;
+}
